@@ -1,0 +1,81 @@
+{
+  "data": [
+    {
+      "student_id": 20,
+      "marks": 95,
+      "name": "Ankit",
+      "subject": "Maths",
+      "id": 1
+    },
+    {
+      "student_id": 10,
+      "marks": 99,
+      "name": "Raj",
+      "subject": "English",
+      "id": 2
+    },
+    {
+      "student_id": 35,
+      "marks": 98,
+      "name": "Akash",
+      "subject": "Maths",
+      "id": 3
+    },
+    {
+      "student_id": 20,
+      "marks": 99,
+      "name": "Ankit",
+      "subject": "Hindi",
+      "id": 4
+    },
+    {
+      "student_id": 10,
+      "marks": 92,
+      "name": "Raj",
+      "subject": "Maths",
+      "id": 5
+    },
+    {
+      "student_id": 10,
+      "marks": 78,
+      "name": "Raj",
+      "subject": "Science",
+      "id": 6
+    },
+    {
+      "student_id": 35,
+      "marks": 95,
+      "name": "Akash",
+      "subject": "Science",
+      "id": 7
+    },
+    {
+      "student_id": 35,
+      "marks": 65,
+      "name": "Akash",
+      "subject": "History",
+      "id": 8
+    },
+    {
+      "student_id": 35,
+      "marks": "97",
+      "name": "Akash",
+      "subject": "English",
+      "id": 9
+    },
+    {
+      "name": "Surya",
+      "subject": "Bio",
+      "marks": "89",
+      "student_id": "90",
+      "id": 10
+    },
+    {
+      "name": "Pankaj",
+      "subject": "Maths",
+      "marks": "79",
+      "student_id": "012",
+      "id": 11
+    }
+  ]
+}
